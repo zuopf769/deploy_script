@@ -29,4 +29,4 @@ Refer to `code_style.md` for code style recommendations.
 
 在common里webpack
 在webapp里webpack
-在localstorage里 setItem('ofo-tokend', '');
+在localstorage里 setItem('tokend', '');
