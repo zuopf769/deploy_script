@@ -1,0 +1,6 @@
+{
+  "name": "replace-svg",
+  "dependencies": {
+    "fs-walk": "0.0.1"
+  }
+}

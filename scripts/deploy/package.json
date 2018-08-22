@@ -1,0 +1,15 @@
+{
+  "name": "ofo-uwsr",
+  "main": "index.js",
+  "dependencies": {
+    "ali-oss": "^4.4.4",
+    "co": "^4.6.0",
+    "co-fs-plus": "^0.3.1",
+    "colors": "^1.1.2",
+    "exec-co": "^1.3.0",
+    "lodash.flattendeep": "^4.4.0",
+    "md5-file": "^3.1.1",
+    "node-fetch": "^1.6.3",
+    "refresh-aliyun-cdn": "^1.1.2"
+  }
+}
